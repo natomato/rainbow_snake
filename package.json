@@ -1,0 +1,26 @@
+{
+  "name": "snake",
+  "version": "0.0.1",
+  "description": "classic snake game built on node",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natomato/snake.git"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "mocha"
+  ],
+  "author": "natomato",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natomato/snake/issues"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
